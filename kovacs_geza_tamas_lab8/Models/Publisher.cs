@@ -9,6 +9,6 @@ namespace kovacs_geza_tamas_lab8.Models
     {
         public int ID { get; set; }
         public string PublisherName { get; set; }
-        public ICollection<Book> Books { get; set; } //navigation property
+        public virtual ICollection<Book> Books { get; set; } //navigation property
     }
 }

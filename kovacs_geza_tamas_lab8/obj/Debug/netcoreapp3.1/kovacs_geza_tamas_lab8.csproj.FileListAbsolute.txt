@@ -183,3 +183,4 @@ C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-progra
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\kovacs_geza_tamas_lab8.dll
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\kovacs_geza_tamas_lab8.pdb
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\kovacs_geza_tamas_lab8.genruntimeconfig.cache
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\kovacs_geza_tamas_lab8.csprojAssemblyReference.cache
