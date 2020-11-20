@@ -19,5 +19,6 @@ namespace kovacs_geza_tamas_lab8.Data
         public DbSet<kovacs_geza_tamas_lab8.Models.Publisher> Publisher { get; set; }
 
         public DbSet<kovacs_geza_tamas_lab8.Models.Category> Category { get; set; }
+        public DbSet<kovacs_geza_tamas_lab8.Models.BookCategory> BookCategory { get; set; }
     }
 }

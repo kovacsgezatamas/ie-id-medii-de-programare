@@ -36,6 +36,7 @@ namespace kovacs_geza_tamas_lab8.Pages.Books
             {
                 return NotFound();
             }
+            ViewData["PublisherID"] = new SelectList(_context.Set<Publisher>(), "ID", "PublisherName");
             return Page();
         }
 
