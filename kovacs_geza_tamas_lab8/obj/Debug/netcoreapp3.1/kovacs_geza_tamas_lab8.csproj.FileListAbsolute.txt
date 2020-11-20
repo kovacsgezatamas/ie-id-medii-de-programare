@@ -175,3 +175,13 @@ C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-progra
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Details.cshtml.g.cs
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Edit.cshtml.g.cs
 C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Index.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Publishers\Create.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Publishers\Delete.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Publishers\Details.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Publishers\Edit.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Publishers\Index.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Create.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Delete.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Details.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Edit.cshtml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab8\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Index.cshtml.g.cs
