@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "kovacs_geza_tamas_lab8Context"
+    }
+  }
+}
