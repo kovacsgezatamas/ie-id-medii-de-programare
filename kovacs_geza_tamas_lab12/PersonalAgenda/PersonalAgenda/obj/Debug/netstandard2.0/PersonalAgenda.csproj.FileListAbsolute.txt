@@ -1,0 +1,33 @@
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.deps.json
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\ref\PersonalAgenda.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\AgendaPage.xaml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.AssemblyInfoInputs.cache
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.AssemblyInfo.cs
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\ref\PersonalAgenda.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.csprojAssemblyReference.cache
+D:\proj\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.deps.json
+D:\proj\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.dll
+D:\proj\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\ref\PersonalAgenda.dll
+D:\proj\PersonalAgenda\PersonalAgenda\bin\Debug\netstandard2.0\PersonalAgenda.pdb
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.csprojAssemblyReference.cache
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\ActivityPage.xaml.g.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\AgendaPage.xaml.g.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.AssemblyInfoInputs.cache
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.AssemblyInfo.cs
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.csproj.CoreCompileInputs.cache
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\XamlC.stamp
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.dll
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\ref\PersonalAgenda.dll
+D:\proj\PersonalAgenda\PersonalAgenda\obj\Debug\netstandard2.0\PersonalAgenda.pdb

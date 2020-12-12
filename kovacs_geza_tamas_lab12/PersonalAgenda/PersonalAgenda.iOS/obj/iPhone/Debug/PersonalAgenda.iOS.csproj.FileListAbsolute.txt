@@ -1,0 +1,137 @@
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.iOS.exe
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.iOS.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csprojAssemblyReference.cache
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csproj.CopyComplete
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.exe
+C:\Users\Geza\Desktop\University\Sem 5\medii_de_programare\ie-id-medii-de-programare\kovacs_geza_tamas_lab11\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.iOS.exe
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.iOS.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\PersonalAgenda.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\optimized\
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csprojAssemblyReference.cache
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csproj.CoreCompileInputs.cache
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.csproj.CopyComplete
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.exe
+D:\proj\PersonalAgenda\PersonalAgenda.iOS\obj\iPhone\Debug\PersonalAgenda.iOS.pdb
