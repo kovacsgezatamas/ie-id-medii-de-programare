@@ -1,0 +1,77 @@
+﻿@page
+@model kovacs_geza_tamas_project.Pages.Cars.IndexModel
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<h1>Cars</h1>
+
+<p>
+    <a asp-page="Create">Add New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].LicensePlate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].ProductionYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].RentalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].NextInspectionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].Make.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cars[0].CarFuels)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.CarD.Cars) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LicensePlate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductionYear)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Color)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RentalPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NextInspectionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Make.Name)
+                </td>
+                <td>
+                    @{
+                        foreach (var carFuel in item.CarFuels)
+                        {
+                            @carFuel.Fuel.Type <br />
+                        }
+                    }
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
